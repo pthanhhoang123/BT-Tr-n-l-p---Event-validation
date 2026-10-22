@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Theme Colors matching the slide photo -->
+    <color name="bg_dark">#0B111E</color>
+    <color name="card_bg">#121A2A</color>
+    <color name="card_border">#1E2C44</color>
+    <color name="green_valid">#00E676</color>
+    <color name="red_error">#FF3838</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_muted">#8A99AD</color>
+</resources>

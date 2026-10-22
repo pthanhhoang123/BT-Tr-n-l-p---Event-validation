@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Đăng ký Tài khoản</string>
+    <string name="title_register">ĐĂNG KÝ TÀI KHOẢN</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="btn_register">ĐĂNG KÝ NGAY</string>
+
+    <string name="title_success">ĐĂNG KÝ THÀNH CÔNG!</string>
+    <string name="subtitle_success">Thông tin tài khoản đã được xác nhận</string>
+    <string name="display_name">Họ và tên: %1$s</string>
+    <string name="display_email">Email: %1$s</string>
+    <string name="display_phone">Số điện thoại: %1$s</string>
+    <string name="btn_back_register">QUAY LẠI TRANG ĐĂNG KÝ</string>
+
+    <string name="title_error">ĐĂNG KÝ THẤT BẠI!</string>
+    <string name="subtitle_error">Đã phát hiện lỗi dữ liệu nhập không đúng định dạng</string>
+    <string name="error_details_title">Chi tiết lỗi:</string>
+    <string name="btn_back_edit">QUAY LẠI CHỈNH SỬA</string>
+</resources>
